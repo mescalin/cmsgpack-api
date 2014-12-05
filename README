@@ -1,0 +1,1 @@
+build: cd cmsgpack-api && scons
